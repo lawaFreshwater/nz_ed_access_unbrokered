@@ -1,0 +1,17 @@
+Agency,Source,URL
+ACC,web,http://gisdmz.horizons.govt.nz/arcgis/services/Emar/ACMonitoringSiteReferenceData/MapServer/WFSServer?request=GetFeature&service=WFS&typeName=MonitoringSiteReferenceData&version=1.1.0
+BOPRC,web,http://geospatial.boprc.govt.nz/arcgis/services/emar/MonitoringSiteReferenceData/MapServer/WFSServer?request=getfeature&service=WFS&VERSION=1.1.0&typename=MonitoringSiteReferenceData&srsName=EPSG:4326
+ECAN,web,http://gis.ecan.govt.nz/arcgis/services/Public/LAWA/MapServer/WFSServer?version=1.1.0&request=GetFeature&service=WFS&typename=emar:MonitoringSiteReferenceData&srsName=EPSG:4326
+ES,web,http://gis.es.govt.nz/arcgis/services/emar/MonitoringSiteReferenceData/MapServer/WFSServer?SERVICE=WFS&VERSION=1.1.0&REQUEST=getfeature&typename=MonitoringSiteReferenceData&srsName=urn:ogc:def:crs:EPSG:6.9:4326
+GDC,web,http://hilltop.gdc.govt.nz/data.hts?service=WFS&request=GetFeature&typename=MonitoringSiteReferenceData&version=1.1.0
+GWRC,web,http://hilltop.gw.govt.nz/data.hts?Service=WFS&Request=GetFeature&TypeName=MonitoringSiteReferenceData&version=1.1.0
+HBRC,web,https://hbmaps.hbrc.govt.nz/arcgis/services/emar/MonitoringSiteReferenceData/MapServer/WFSServer?request=GetFeature&service=WFS&typename=MonitoringSiteReferenceData&srsName=urn:ogc:def:crs:EPSG:6.9:4326&Version=1.1.0
+HRC,web,http://gisdmz.horizons.govt.nz/arcgis/services/Emar/MonitoringSiteReferenceData/MapServer/WFSServer?request=getfeature&service=WFS&typename=MonitoringSiteReferenceData
+MDC,web,http://hydro.marlborough.govt.nz/data.hts?Service=WFS&Request=GetFeature&TypeName=MonitoringSiteReferenceData&version=1.1.0
+NCC,web,http://envdata.nelson.govt.nz/anything.hts?Service=WFS&Request=GetFeature&TypeName=MonitoringSiteReferenceData&version=1.1.0
+NRC,web,http://hilltop.nrc.govt.nz/PublicTelemetry.hts?Service=WFS&request=GetFeature&TypeName=MonitoringSiteReferenceData&version=1.1.0
+ORC,web,http://gisdata.orc.govt.nz/Hilltop/Global.hts?Service=WFS&Request=GetFeature&TypeName=MonitoringSiteReferenceData&version=1.1.0
+TRC,web,https://extranet.trc.govt.nz/getgis/arcgis/services/emar/MonitoringSiteReferenceData/MapServer/WFSServer?request=GetFeature&Version=1.1.0&service=WFS&typename=MonitoringSiteReferenceData&srsName=urn:ogc:def:crs:EPSG:6.9:4326
+TDC,web,http://envdata.tasman.govt.nz/anything.hts?Service=WFS&Request=GetFeature&TypeName=MonitoringSiteReferenceData&version=1.1.0
+WCRC,web,http://data.wcrc.govt.nz:9083/wq.hts?Service=WFS&Request=GetFeature&TypeName=MonitoringSiteReferenceData&version=1.1.0
+WRC,web,http://wrcgis.waikatoregion.govt.nz/wrcgis/services/emar/MonitoringSiteReferenceData/MapServer/WFSServer?request=Getfeature&service=WFS&VERSION=1.1.0&typename=MonitoringSiteReferenceData&srsname=epsg:4326
