@@ -288,5 +288,5 @@ siteTable$Region[siteTable$Region=="WestCoast"]     <- "West Coast"
 
 
 ## Output table to CSV
-write.csv(x = siteTable,file = paste(wd,"/LAWA_Site_Table.csv",sep=""))
+write.csv(x = siteTable,file = paste(wd,"/Site_Table.csv",sep=""))
 
